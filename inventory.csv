@@ -1,0 +1,101 @@
+SKU,Item Name,Category,Cost Price (KES),Unit Price (KES),Stock Qty,Reorder Level,Total Stock Value,Potential Profit,Stock Status
+SKU-1001,"PPR Gate Valve 3/4""",Plumbing Product,455.0,650.0,111,15,"KES 46,410.00","KES 19,890.00",OK
+SKU-1002,Basic Plumbing Labor (Hr),Plumbing Services,700.0,1000.0,116,15,"KES 81,200.00","KES 34,800.00",OK
+SKU-1003,"PVC Elbow 1/2""",Plumbing Product,35.0,50.0,28,15,"KES 1,050.00",KES 450.00,OK
+SKU-1004,"PPR Gate Valve 3/4""",Plumbing Product,455.0,650.0,131,15,"KES 59,605.00","KES 25,545.00",OK
+SKU-1005,Transistor 2N3055,Amplifier Parts,105.0,150.0,97,15,"KES 10,185.00","KES 4,365.00",OK
+SKU-1006,13A Double Socket,Electrical Wiring,315.0,450.0,113,15,"KES 35,595.00","KES 15,255.00",OK
+SKU-1007,PVC Conduit Pipe (20mm),Electrical Wiring,175.0,250.0,62,15,"KES 10,850.00","KES 4,650.00",OK
+SKU-1008,Lighting Switch Box,Electrical Wiring,245.0,350.0,97,15,"KES 23,765.00","KES 10,185.00",OK
+SKU-1009,Power Transformer 12V,Amplifier Parts,1540.0,2200.0,47,15,"KES 72,380.00","KES 31,020.00",OK
+SKU-1010,Lighting Switch Box,Electrical Wiring,245.0,350.0,30,15,"KES 7,350.00","KES 3,150.00",OK
+SKU-1011,Circuit Breaker 32A,Electrical Wiring,840.0,1200.0,131,15,"KES 110,040.00","KES 47,160.00",OK
+SKU-1012,Filter Capacitor 50V,Amplifier Parts,140.0,200.0,106,15,"KES 14,840.00","KES 6,360.00",OK
+SKU-1013,2.5mm Copper Wire (100m),Electrical Wiring,3150.0,4500.0,47,15,"KES 148,050.00","KES 63,450.00",OK
+SKU-1014,Basic Plumbing Labor (Hr),Plumbing Services,700.0,1000.0,140,15,"KES 98,000.00","KES 42,000.00",OK
+SKU-1015,Circuit Breaker 32A,Electrical Wiring,840.0,1200.0,72,15,"KES 60,480.00","KES 25,920.00",OK
+SKU-1016,Amplifier Diagnostics Labor,Amplifier Parts,560.0,800.0,19,15,"KES 10,640.00","KES 4,560.00",OK
+SKU-1017,Filter Capacitor 50V,Amplifier Parts,140.0,200.0,82,15,"KES 11,480.00","KES 4,920.00",OK
+SKU-1018,PPR Pipe 25mm,Plumbing Product,560.0,800.0,133,15,"KES 74,480.00","KES 31,920.00",OK
+SKU-1019,PPR Pipe 25mm,Plumbing Product,560.0,800.0,76,15,"KES 42,560.00","KES 18,240.00",OK
+SKU-1020,Transistor 2N3055,Amplifier Parts,105.0,150.0,89,15,"KES 9,345.00","KES 4,005.00",OK
+SKU-1021,Transistor 2N3055,Amplifier Parts,105.0,150.0,34,15,"KES 3,570.00","KES 1,530.00",OK
+SKU-1022,PPR Pipe 25mm,Plumbing Product,560.0,800.0,145,15,"KES 81,200.00","KES 34,800.00",OK
+SKU-1023,Amplifier Diagnostics Labor,Amplifier Repair,560.0,800.0,34,15,"KES 19,040.00","KES 8,160.00",OK
+SKU-1024,Bathroom Basin Mixer,Plumbing Products,2450.0,3500.0,149,15,"KES 365,050.00","KES 156,450.00",OK
+SKU-1025,Audio Board PCB,Amplifier Parts,1050.0,1500.0,103,15,"KES 108,150.00","KES 46,350.00",OK
+SKU-1026,Full House Inspection,Plumbing Services,2100.0,3000.0,127,15,"KES 266,700.00","KES 114,300.00",OK
+SKU-1027,Flexible Hose 60cm,Plumbing Products,210.0,300.0,68,15,"KES 14,280.00","KES 6,120.00",OK
+SKU-1028,PPR Pipe 25mm,Plumbing Products,560.0,800.0,147,15,"KES 82,320.00","KES 35,280.00",OK
+SKU-1029,2.5mm Copper Wire (100m),Electrical Wiring,3150.0,4500.0,61,15,"KES 192,150.00","KES 82,350.00",OK
+SKU-1030,Full House Inspection,Plumbing Services,2100.0,3000.0,148,15,"KES 310,800.00","KES 133,200.00",OK
+SKU-1031,Main Board Repair Service,Amplifier Repair,1750.0,2500.0,114,15,"KES 199,500.00","KES 85,500.00",OK
+SKU-1032,2.5mm Copper Wire (100m),Electrical Wiring,3150.0,4500.0,47,15,"KES 148,050.00","KES 63,450.00",OK
+SKU-1033,Lighting Switch Box,Electrical Wiring,245.0,350.0,115,15,"KES 28,175.00","KES 12,075.00",OK
+SKU-1034,"PPR Gate Valve 3/4""",Plumbing Products,455.0,650.0,117,15,"KES 53,235.00","KES 22,815.00",OK
+SKU-1035,"PPR Gate Valve 3/4""",Plumbing Products,455.0,650.0,71,15,"KES 32,305.00","KES 13,845.00",OK
+SKU-1036,PPR Pipe 25mm,Plumbing Products,560.0,800.0,69,15,"KES 38,640.00","KES 16,560.00",OK
+SKU-1037,Audio Board PCB,Amplifier Parts,1050.0,1500.0,146,15,"KES 153,300.00","KES 65,700.00",OK
+SKU-1038,Full House Inspection,Plumbing Services,2100.0,3000.0,82,15,"KES 172,200.00","KES 73,800.00",OK
+SKU-1039,Power Transformer 12V,Amplifier Parts,1540.0,2200.0,39,15,"KES 60,060.00","KES 25,740.00",OK
+SKU-1040,Main Board Repair Service,Amplifier Repair,1750.0,2500.0,121,15,"KES 211,750.00","KES 90,750.00",OK
+SKU-1041,Circuit Breaker 32A,Electrical Wiring,840.0,1200.0,55,15,"KES 46,200.00","KES 19,800.00",OK
+SKU-1042,13A Double Socket,Electrical Wiring,315.0,450.0,142,15,"KES 44,730.00","KES 19,170.00",OK
+SKU-1043,Flexible Hose 60cm,Plumbing Products,210.0,300.0,122,15,"KES 25,620.00","KES 10,980.00",OK
+SKU-1044,Flexible Hose 60cm,Plumbing Products,210.0,300.0,101,15,"KES 21,210.00","KES 9,090.00",OK
+SKU-1045,Circuit Breaker 32A,Electrical Wiring,840.0,1200.0,116,15,"KES 97,440.00","KES 41,760.00",OK
+SKU-1046,"PPR Gate Valve 3/4""",Plumbing Products,455.0,650.0,30,15,"KES 13,650.00","KES 5,850.00",OK
+SKU-1047,Bathroom Basin Mixer,Plumbing Products,2450.0,3500.0,113,15,"KES 276,850.00","KES 118,650.00",OK
+SKU-1048,Audio Board PCB,Amplifier Parts,1050.0,1500.0,62,15,"KES 65,100.00","KES 27,900.00",OK
+SKU-1049,Bathroom Basin Mixer,Plumbing Products,2450.0,3500.0,72,15,"KES 176,400.00","KES 75,600.00",OK
+SKU-1050,Bathroom Basin Mixer,Plumbing Products,2450.0,3500.0,36,15,"KES 88,200.00","KES 37,800.00",OK
+SKU-1051,Bathroom Basin Mixer,Plumbing Products,2450.0,3500.0,23,15,"KES 56,350.00","KES 24,150.00",OK
+SKU-1052,Power Transformer 12V,Amplifier Parts,1540.0,2200.0,115,15,"KES 177,100.00","KES 75,900.00",OK
+SKU-1053,PVC Conduit Pipe (20mm),Electrical Wiring,175.0,250.0,119,15,"KES 20,825.00","KES 8,925.00",OK
+SKU-1054,PPR Pipe 25mm,Plumbing Products,560.0,800.0,101,15,"KES 56,560.00","KES 24,240.00",OK
+SKU-1055,Bathroom Basin Mixer,Plumbing Products,2450.0,3500.0,104,15,"KES 254,800.00","KES 109,200.00",OK
+SKU-1056,Transistor 2N3055,Amplifier Parts,105.0,150.0,107,15,"KES 11,235.00","KES 4,815.00",OK
+SKU-1057,Filter Capacitor 50V,Amplifier Parts,140.0,200.0,82,15,"KES 11,480.00","KES 4,920.00",OK
+SKU-1058,2.5mm Copper Wire (100m),Electrical Wiring,3150.0,4500.0,27,15,"KES 85,050.00","KES 36,450.00",OK
+SKU-1059,Amplifier Diagnostics Labor,Amplifier Repair,560.0,800.0,24,15,"KES 13,440.00","KES 5,760.00",OK
+SKU-1060,Bathroom Basin Mixer,Plumbing Products,2450.0,3500.0,34,15,"KES 83,300.00","KES 35,700.00",OK
+SKU-1061,"PPR Gate Valve 3/4""",Plumbing Products,455.0,650.0,40,15,"KES 18,200.00","KES 7,800.00",OK
+SKU-1062,Audio Board PCB,Amplifier Parts,1050.0,1500.0,102,15,"KES 107,100.00","KES 45,900.00",OK
+SKU-1063,Lighting Switch Box,Electrical Wiring,245.0,350.0,130,15,"KES 31,850.00","KES 13,650.00",OK
+SKU-1064,Full House Inspection,Plumbing Services,2100.0,3000.0,62,15,"KES 130,200.00","KES 55,800.00",OK
+SKU-1065,Power Transformer 12V,Amplifier Parts,1540.0,2200.0,125,15,"KES 192,500.00","KES 82,500.00",OK
+SKU-1066,Flexible Hose 60cm,Plumbing Products,210.0,300.0,62,15,"KES 13,020.00","KES 5,580.00",OK
+SKU-1067,Full House Inspection,Plumbing Services,2100.0,3000.0,119,15,"KES 249,900.00","KES 107,100.00",OK
+SKU-1068,Main Board Repair Service,Amplifier Repair,1750.0,2500.0,134,15,"KES 234,500.00","KES 100,500.00",OK
+SKU-1069,Lighting Switch Box,Electrical Wiring,245.0,350.0,148,15,"KES 36,260.00","KES 15,540.00",OK
+SKU-1070,Flexible Hose 60cm,Plumbing Products,210.0,300.0,146,15,"KES 30,660.00","KES 13,140.00",OK
+SKU-1071,Flexible Hose 60cm,Plumbing Products,210.0,300.0,54,15,"KES 11,340.00","KES 4,860.00",OK
+SKU-1072,Full House Inspection,Plumbing Services,2100.0,3000.0,132,15,"KES 277,200.00","KES 118,800.00",OK
+SKU-1073,PVC Conduit Pipe (20mm),Plumbing Products,175.0,250.0,87,15,"KES 15,225.00","KES 6,525.00",OK
+SKU-1074,Main Board Repair Service,Amplifier Repair,1750.0,2500.0,48,15,"KES 84,000.00","KES 36,000.00",OK
+SKU-1075,Circuit Breaker 32A,Electrical Wiring,840.0,1200.0,49,15,"KES 41,160.00","KES 17,640.00",OK
+SKU-1076,Circuit Breaker 32A,Electrical Wiring,840.0,1200.0,88,15,"KES 73,920.00","KES 31,680.00",OK
+SKU-1077,Audio Board PCB,Amplifier Parts,1050.0,1500.0,148,15,"KES 155,400.00","KES 66,600.00",OK
+SKU-1078,Amplifier Diagnostics Labor,Amplifier Repair,560.0,800.0,94,15,"KES 52,640.00","KES 22,560.00",OK
+SKU-1079,Basic Plumbing Labor (Hr),Plumbing Services,700.0,1000.0,55,15,"KES 38,500.00","KES 16,500.00",OK
+SKU-1080,Power Transformer 12V,Amplifier Parts,1540.0,2200.0,65,15,"KES 100,100.00","KES 42,900.00",OK
+SKU-1081,Basic Plumbing Labor (Hr),Plumbing Services,700.0,1000.0,46,15,"KES 32,200.00","KES 13,800.00",OK
+SKU-1082,Bathroom Basin Mixer,Plumbing Products,2450.0,3500.0,31,15,"KES 75,950.00","KES 32,550.00",OK
+SKU-1083,"PPR Gate Valve 3/4""",Plumbing Products,455.0,650.0,130,15,"KES 59,150.00","KES 25,350.00",OK
+SKU-1084,Bathroom Basin Mixer,Plumbing Products,2450.0,3500.0,41,15,"KES 100,450.00","KES 43,050.00",OK
+SKU-1085,Power Transformer 12V,Amplifier Parts,1540.0,2200.0,145,15,"KES 223,300.00","KES 95,700.00",OK
+SKU-1086,Bathroom Basin Mixer,Plumbing Products,2450.0,3500.0,56,15,"KES 137,200.00","KES 58,800.00",OK
+SKU-1087,Bathroom Basin Mixer,Plumbing Products,2450.0,3500.0,89,15,"KES 218,050.00","KES 93,450.00",OK
+SKU-1088,Bathroom Basin Mixer,Plumbing Products,2450.0,3500.0,82,15,"KES 200,900.00","KES 86,100.00",OK
+SKU-1089,Power Transformer 12V,Amplifier Parts,1540.0,2200.0,33,15,"KES 50,820.00","KES 21,780.00",OK
+SKU-1090,Main Board Repair Service,Amplifier Repair,1750.0,2500.0,140,15,"KES 245,000.00","KES 105,000.00",OK
+SKU-1091,Bathroom Basin Mixer,Plumbing Products,2450.0,3500.0,105,15,"KES 257,250.00","KES 110,250.00",OK
+SKU-1092,PPR Pipe 25mm,Plumbing Products,560.0,800.0,107,15,"KES 59,920.00","KES 25,680.00",OK
+SKU-1093,Bathroom Basin Mixer,Plumbing Products,2450.0,3500.0,33,15,"KES 80,850.00","KES 34,650.00",OK
+SKU-1094,"PPR Gate Valve 3/4""",Plumbing Products,455.0,650.0,138,15,"KES 62,790.00","KES 26,910.00",OK
+SKU-1095,13A Double Socket,Electrical Wiring,315.0,450.0,135,15,"KES 42,525.00","KES 18,225.00",OK
+SKU-1096,2.5mm Copper Wire (100m),Electrical Wiring,3150.0,4500.0,109,15,"KES 343,350.00","KES 147,150.00",OK
+SKU-1097,Amplifier Diagnostics Labor,Amplifier Repair,560.0,800.0,138,15,"KES 77,280.00","KES 33,120.00",OK
+SKU-1098,PVC Conduit Pipe (20mm),Electrical Wiring,175.0,250.0,96,15,"KES 16,800.00","KES 7,200.00",OK
+SKU-1099,Lighting Switch Box,Electrical Wiring,245.0,350.0,110,15,"KES 26,950.00","KES 11,550.00",OK
+SKU-1100,13A Double Socket,Electrical Wiring,315.0,450.0,122,15,"KES 38,430.00","KES 16,470.00",OK
